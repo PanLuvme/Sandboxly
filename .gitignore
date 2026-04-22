@@ -34,6 +34,8 @@ x86/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
+!Sandboxie/common/NtCRT/x64/
+!Sandboxie/common/NtCRT/x86/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
